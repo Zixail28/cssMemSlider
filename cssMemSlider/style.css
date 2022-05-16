@@ -80,6 +80,10 @@ span{
 	transition: .3s;
 }
 
+label:hover{
+	cursor: pointer;
+}
+
 label:hover span {
 	border: 2px solid whitesmoke;
 	background-color: whitesmoke;
